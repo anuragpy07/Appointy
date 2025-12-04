@@ -169,8 +169,17 @@ appointy/
 We welcome contributions! Please feel free to submit issues, fork the repository, and open pull requests.
 
 
+
+
 ## 🌟 Acknowledgements
 
 - Thanks to the developers and contributors of MongoDB, Express.js, React.js, Node.js, Stripe, and Razorpay for their fantastic tools and libraries.
 
 ---
+
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub — it really helps!
+
+Also, feel free to **follow me on GitHub** for more projects and updates:
+👉 https://github.com/anuragpy07
